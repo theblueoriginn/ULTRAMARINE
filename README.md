@@ -3,5 +3,8 @@
 in order:
 
 cmake .
+
 make
+
 ./main
+
