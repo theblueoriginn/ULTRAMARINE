@@ -1,0 +1,3 @@
+/home/tuna/git/ULTRAMARINE/image_viewer/CMakeFiles/main.dir
+/home/tuna/git/ULTRAMARINE/image_viewer/CMakeFiles/edit_cache.dir
+/home/tuna/git/ULTRAMARINE/image_viewer/CMakeFiles/rebuild_cache.dir
